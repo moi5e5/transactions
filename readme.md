@@ -65,5 +65,7 @@ GET /transactions/{account_number}/?received
 ### get account balance
 GET /balance/{account_number}/
 
+# Important, use a basic auth with the user/pwd has been created as superuser
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
